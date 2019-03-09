@@ -1,0 +1,18 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "images": "gulp images"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-responsive": "^2.13.0",
+    "gulp-responsive-config": "^1.1.0"
+  }
+}
